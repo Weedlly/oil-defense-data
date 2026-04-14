@@ -1,0 +1,14 @@
+{
+  "levelConfig_01": {
+    "startingOil": 150,
+    "maxOilStorage": 9999,
+    "passiveOilRate": 1.5,
+    "tapOilValue": 8,
+    "critChance": 0.05,
+    "critMultiplier": 2.0,
+    "maxLives": 5,
+    "waveCountdown": 7.0,
+    "earlyCallMaxBonus": 20,
+    "showCallWaveOnStart": true
+  }
+}

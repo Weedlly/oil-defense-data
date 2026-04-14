@@ -1,0 +1,64 @@
+{
+  "wave_Level01": {
+    "waves": [
+      {
+        "waveNumber": 1,
+        "delayBeforeWave": 2.0,
+        "spawnGroups": [
+          {
+            "enemyName": "Dinghy",
+            "count": 5,
+            "spawnInterval": 1.2,
+            "delayAfterPrevGroup": 0.0,
+            "groundPathIndex": 0,
+            "airPathIndex": 0
+          }
+        ]
+      },
+      {
+        "waveNumber": 2,
+        "delayBeforeWave": 1.0,
+        "spawnGroups": [
+          {
+            "enemyName": "Dinghy",
+            "count": 3,
+            "spawnInterval": 1.0,
+            "delayAfterPrevGroup": 0.0,
+            "groundPathIndex": 0,
+            "airPathIndex": 0
+          },
+          {
+            "enemyName": "Speedboat",
+            "count": 3,
+            "spawnInterval": 0.8,
+            "delayAfterPrevGroup": 2.0,
+            "groundPathIndex": 0,
+            "airPathIndex": 0
+          }
+        ]
+      },
+      {
+        "waveNumber": 3,
+        "delayBeforeWave": 1.0,
+        "spawnGroups": [
+          {
+            "enemyName": "Speedboat",
+            "count": 4,
+            "spawnInterval": 0.8,
+            "delayAfterPrevGroup": 0.0,
+            "groundPathIndex": 0,
+            "airPathIndex": 0
+          },
+          {
+            "enemyName": "Pirate Boat",
+            "count": 2,
+            "spawnInterval": 1.5,
+            "delayAfterPrevGroup": 3.0,
+            "groundPathIndex": 0,
+            "airPathIndex": 0
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "airstrike": {
+    "type": "Airstrike",
+    "cooldown": 15.0,
+    "radius": 2.5,
+    "damage": 200.0,
+    "jetSpeed": 13.0,
+    "jetAltitude": 1.5,
+    "missileSpeed": 13.0,
+    "fireDistance": 5.0,
+    "mineCount": 0,
+    "mineSpreadRadius": 0.0,
+    "mineDamage": 0.0,
+    "mineTriggerRadius": 0.0,
+    "mineLifetime": 0.0,
+    "slowMultiplier": 0.0,
+    "slowDuration": 0.0
+  },
+  "mine": {
+    "type": "EmergencyMine",
+    "cooldown": 20.0,
+    "radius": 1.0,
+    "damage": 0.0,
+    "jetSpeed": 0.0,
+    "jetAltitude": 0.0,
+    "missileSpeed": 0.0,
+    "fireDistance": 0.0,
+    "mineCount": 3,
+    "mineSpreadRadius": 0.5,
+    "mineDamage": 30.0,
+    "mineTriggerRadius": 0.6,
+    "mineLifetime": 15.0,
+    "slowMultiplier": 0.4,
+    "slowDuration": 3.0
+  }
+}

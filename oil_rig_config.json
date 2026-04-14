@@ -1,0 +1,11 @@
+{
+  "oilRigConfig_Default": {
+    "pumpDuration": 5.0,
+    "oilPerPump": 8,
+    "tapProgressBonus": 0.05,
+    "tapSpeedMultiplier": 1.5,
+    "tapCooldown": 0.4,
+    "pumpingWindow": 2.0,
+    "maxHP": 500.0
+  }
+}

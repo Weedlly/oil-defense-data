@@ -1,0 +1,170 @@
+{
+  "gun Turret": {
+    "canTargetAir": true,
+    "canTargetWater": true,
+    "levels": [
+      {
+        "minDamage": 8.0,
+        "maxDamage": 12.0,
+        "fireRate": 0.8,
+        "range": 4.0,
+        "cost": 50,
+        "splashRadius": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 2.0
+      },
+      {
+        "minDamage": 12.0,
+        "maxDamage": 18.0,
+        "fireRate": 0.7,
+        "range": 4.5,
+        "cost": 40,
+        "splashRadius": 0.0,
+        "critChance": 0.05,
+        "critMultiplier": 2.0
+      },
+      {
+        "minDamage": 18.0,
+        "maxDamage": 26.0,
+        "fireRate": 0.6,
+        "range": 5.0,
+        "cost": 60,
+        "splashRadius": 0.0,
+        "critChance": 0.08,
+        "critMultiplier": 2.0
+      }
+    ],
+    "pathA": {
+      "minDamage": 0.0,
+      "maxDamage": 0.0,
+      "fireRate": 1.0,
+      "range": 4.0,
+      "cost": 0,
+      "splashRadius": 0.0,
+      "critChance": 0.0,
+      "critMultiplier": 2.0
+    },
+    "pathB": {
+      "minDamage": 0.0,
+      "maxDamage": 0.0,
+      "fireRate": 1.0,
+      "range": 4.0,
+      "cost": 0,
+      "splashRadius": 0.0,
+      "critChance": 0.0,
+      "critMultiplier": 2.0
+    }
+  },
+  "missile Launcher": {
+    "canTargetAir": true,
+    "canTargetWater": true,
+    "levels": [
+      {
+        "minDamage": 20.0,
+        "maxDamage": 30.0,
+        "fireRate": 2.0,
+        "range": 5.0,
+        "cost": 100,
+        "splashRadius": 1.2,
+        "critChance": 0.0,
+        "critMultiplier": 2.0
+      },
+      {
+        "minDamage": 35.0,
+        "maxDamage": 50.0,
+        "fireRate": 1.8,
+        "range": 5.5,
+        "cost": 80,
+        "splashRadius": 1.5,
+        "critChance": 0.0,
+        "critMultiplier": 2.0
+      },
+      {
+        "minDamage": 50.0,
+        "maxDamage": 75.0,
+        "fireRate": 1.5,
+        "range": 6.0,
+        "cost": 120,
+        "splashRadius": 2.0,
+        "critChance": 0.0,
+        "critMultiplier": 2.0
+      }
+    ],
+    "pathA": {
+      "minDamage": 0.0,
+      "maxDamage": 0.0,
+      "fireRate": 1.0,
+      "range": 4.0,
+      "cost": 0,
+      "splashRadius": 0.0,
+      "critChance": 0.0,
+      "critMultiplier": 2.0
+    },
+    "pathB": {
+      "minDamage": 0.0,
+      "maxDamage": 0.0,
+      "fireRate": 1.0,
+      "range": 4.0,
+      "cost": 0,
+      "splashRadius": 0.0,
+      "critChance": 0.0,
+      "critMultiplier": 2.0
+    }
+  },
+  "tesla Coil": {
+    "canTargetAir": true,
+    "canTargetWater": true,
+    "levels": [
+      {
+        "minDamage": 8.0,
+        "maxDamage": 12.0,
+        "fireRate": 0.8,
+        "range": 3.5,
+        "cost": 80,
+        "splashRadius": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 2.0
+      },
+      {
+        "minDamage": 12.0,
+        "maxDamage": 18.0,
+        "fireRate": 0.7,
+        "range": 4.0,
+        "cost": 60,
+        "splashRadius": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 2.0
+      },
+      {
+        "minDamage": 18.0,
+        "maxDamage": 28.0,
+        "fireRate": 0.5,
+        "range": 4.5,
+        "cost": 90,
+        "splashRadius": 0.0,
+        "critChance": 0.0,
+        "critMultiplier": 2.0
+      }
+    ],
+    "pathA": {
+      "minDamage": 0.0,
+      "maxDamage": 0.0,
+      "fireRate": 1.0,
+      "range": 4.0,
+      "cost": 0,
+      "splashRadius": 0.0,
+      "critChance": 0.0,
+      "critMultiplier": 2.0
+    },
+    "pathB": {
+      "minDamage": 0.0,
+      "maxDamage": 0.0,
+      "fireRate": 1.0,
+      "range": 4.0,
+      "cost": 0,
+      "splashRadius": 0.0,
+      "critChance": 0.0,
+      "critMultiplier": 2.0
+    }
+  }
+}
