@@ -1,5 +1,5 @@
 {
-  "levelConfig_01": {
+  "LevelConfig_01": {
     "startingOil": 200,
     "maxOilStorage": 9999,
     "passiveOilRate": 1.5,
