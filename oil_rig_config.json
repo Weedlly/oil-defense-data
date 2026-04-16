@@ -1,11 +1,11 @@
 {
-  "oilRigConfig_Default": {
-    "pumpDuration": 5.0,
-    "oilPerPump": 8,
-    "tapProgressBonus": 0.05,
-    "tapSpeedMultiplier": 1.5,
-    "tapCooldown": 0.4,
-    "pumpingWindow": 2.0,
-    "maxHP": 500.0
+  "OilRigConfig_Default": {
+    "pumpDuration": 5.0, // Chu kỳ bơm dẫu (giây)
+    "oilPerPump": 10, // Sản lượng 1 chu kỳ
+    "tapProgressBonus": 0.05, // Tiến độ nhận thêm khi đập click (%)
+    "tapSpeedMultiplier": 1.5, // Tốc độ tăng tiến sau khi click buff
+    "tapCooldown": 0.4, // Thời gian giữa các lượt buff
+    "pumpingWindow": 2.0, // Thời gian hoạt động buff
+    "maxHP": 500.0 // Máu trụ
   }
 }
