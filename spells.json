@@ -1,36 +1,36 @@
 {
-  "airstrike": {
-    "type": "Airstrike",
-    "cooldown": 15.0,
-    "radius": 2.5,
-    "damage": 200.0,
-    "jetSpeed": 13.0,
-    "jetAltitude": 1.5,
-    "missileSpeed": 13.0,
-    "fireDistance": 5.0,
-    "mineCount": 0,
-    "mineSpreadRadius": 0.0,
-    "mineDamage": 0.0,
-    "mineTriggerRadius": 0.0,
-    "mineLifetime": 0.0,
-    "slowMultiplier": 0.0,
-    "slowDuration": 0.0
+  "Airstrike": {
+    "type": "Airstrike", // Loài / Kiểu kỹ năng
+    "cooldown": 25.0, // Hồi chiêu (giây)
+    "radius": 2.5, // Phạm vi
+    "damage": 200.0, // Sát thương
+    "jetSpeed": 20.0, // Tốc độ máy bay
+    "jetAltitude": 1.5, // Độ cao máy bay bay tới
+    "missileSpeed": 13.0, // Tốc độ tên lửa
+    "fireDistance": 5.0, // Khoảng cách bắt đầu xả súng/bom
+    "mineCount": 0, // Số lượng mìn rải
+    "mineSpreadRadius": 0.0, // Diện tích rải mìn
+    "mineDamage": 0.0, // Sát thương mỗi trái mìn
+    "mineTriggerRadius": 0.0, // Khu vực kích nổ
+    "mineLifetime": 0.0, // Thời gian tồn tại của mìn (s)
+    "slowMultiplier": 0.0, // Hệ số làm chậm (0.4 = chậm 60%)
+    "slowDuration": 0.0 // Thời gian dính hiệu ứng làm chậm
   },
-  "mine": {
-    "type": "EmergencyMine",
-    "cooldown": 20.0,
-    "radius": 1.0,
-    "damage": 0.0,
-    "jetSpeed": 0.0,
-    "jetAltitude": 0.0,
-    "missileSpeed": 0.0,
-    "fireDistance": 0.0,
-    "mineCount": 3,
-    "mineSpreadRadius": 0.5,
-    "mineDamage": 30.0,
-    "mineTriggerRadius": 0.6,
-    "mineLifetime": 15.0,
-    "slowMultiplier": 0.4,
-    "slowDuration": 3.0
+  "Mine": {
+    "type": "EmergencyMine", // Loài / Kiểu kỹ năng
+    "cooldown": 20.0, // Hồi chiêu (giây)
+    "radius": 1.0, // Phạm vi
+    "damage": 0.0, // Sát thương
+    "jetSpeed": 0.0, // Tốc độ máy bay
+    "jetAltitude": 0.0, // Độ cao máy bay bay tới
+    "missileSpeed": 0.0, // Tốc độ tên lửa
+    "fireDistance": 0.0, // Khoảng cách bắt đầu xả súng/bom
+    "mineCount": 3, // Số lượng mìn rải
+    "mineSpreadRadius": 0.5, // Diện tích rải mìn
+    "mineDamage": 30.0, // Sát thương mỗi trái mìn
+    "mineTriggerRadius": 0.6, // Khu vực kích nổ
+    "mineLifetime": 15.0, // Thời gian tồn tại của mìn (s)
+    "slowMultiplier": 0.4, // Hệ số làm chậm (0.4 = chậm 60%)
+    "slowDuration": 3.0 // Thời gian dính hiệu ứng làm chậm
   }
 }
