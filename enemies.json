@@ -1,62 +1,62 @@
 {
-  "dinghy": {
-    "hp": 30.0,
-    "speed": 1.0,
-    "physicalArmor": 0.0,
-    "magicResist": 0.0,
-    "oilDrop": 2,
-    "damageToBoats": 0.0,
-    "isFlying": false,
-    "isStealth": false,
-    "stealthRevealRange": 3.0,
-    "hasHealAura": false,
-    "healAuraRadius": 0.0,
-    "healAuraRate": 0.0,
-    "isRanged": false,
-    "attackRange": 0.0,
-    "isBoss": false,
-    "phases": [],
-    "defaultGroupSize": 5,
-    "spawnInterval": 0.6
+  "Dinghy": {
+    "hp": 30.0, // Máu cơ bản
+    "speed": 1.0, // Tốc độ di chuyển
+    "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
+    "magicResist": 0.0, // Kháng phép
+    "oilDrop": 2, // Lượng dầu rớt ra khi chết
+    "damageToBoats": 0.0, // Sát thương gây cho tàu/giàn khoan
+    "isFlying": false, // Có bay không?
+    "isStealth": false, // Có tàng hình không?
+    "stealthRevealRange": 3.0, // Tầm bị phát hiện khi chạy tới gần
+    "hasHealAura": false, // Có hồi máu xung quanh?
+    "healAuraRadius": 0.0, // Bán kính buff máu
+    "healAuraRate": 0.0, // Mức buff máu
+    "isRanged": false, // Đánh xa?
+    "attackRange": 0.0, // Tầm đánh
+    "isBoss": false, // Là Boss?
+    "phases": null,
+    "defaultGroupSize": 5, // Số lượng mặc định 1 cụm sinh ra
+    "spawnInterval": 0.6 // Khoảng cách sinh ra giữa mỗi con trong cụm
   },
-  "pirate Boat": {
-    "hp": 60.0,
-    "speed": 1.0,
-    "physicalArmor": 0.0,
-    "magicResist": 0.0,
-    "oilDrop": 4,
-    "damageToBoats": 0.0,
-    "isFlying": false,
-    "isStealth": false,
-    "stealthRevealRange": 3.0,
-    "hasHealAura": false,
-    "healAuraRadius": 0.0,
-    "healAuraRate": 0.0,
-    "isRanged": false,
-    "attackRange": 0.0,
-    "isBoss": false,
-    "phases": [],
-    "defaultGroupSize": 3,
-    "spawnInterval": 1.0
+  "DroneSwarm": {
+    "hp": 15.0, // Máu cơ bản
+    "speed": 3.0, // Tốc độ di chuyển
+    "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
+    "magicResist": 0.0, // Kháng phép
+    "oilDrop": 5, // Lượng dầu rớt ra khi chết
+    "damageToBoats": 0.0, // Sát thương gây cho tàu/giàn khoan
+    "isFlying": true, // Có bay không?
+    "isStealth": false, // Có tàng hình không?
+    "stealthRevealRange": 3.0, // Tầm bị phát hiện khi chạy tới gần
+    "hasHealAura": false, // Có hồi máu xung quanh?
+    "healAuraRadius": 0.0, // Bán kính buff máu
+    "healAuraRate": 0.0, // Mức buff máu
+    "isRanged": false, // Đánh xa?
+    "attackRange": 0.0, // Tầm đánh
+    "isBoss": false, // Là Boss?
+    "phases": null,
+    "defaultGroupSize": 1, // Số lượng mặc định 1 cụm sinh ra
+    "spawnInterval": 1.0 // Khoảng cách sinh ra giữa mỗi con trong cụm
   },
-  "speedboat": {
-    "hp": 80.0,
-    "speed": 1.5,
-    "physicalArmor": 0.0,
-    "magicResist": 0.0,
-    "oilDrop": 6,
-    "damageToBoats": 0.0,
-    "isFlying": false,
-    "isStealth": false,
-    "stealthRevealRange": 3.0,
-    "hasHealAura": false,
-    "healAuraRadius": 0.0,
-    "healAuraRate": 0.0,
-    "isRanged": false,
-    "attackRange": 0.0,
-    "isBoss": false,
-    "phases": [],
-    "defaultGroupSize": 2,
-    "spawnInterval": 0.8
+  "Speedboat": {
+    "hp": 80.0, // Máu cơ bản
+    "speed": 1.5, // Tốc độ di chuyển
+    "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
+    "magicResist": 0.0, // Kháng phép
+    "oilDrop": 6, // Lượng dầu rớt ra khi chết
+    "damageToBoats": 0.0, // Sát thương gây cho tàu/giàn khoan
+    "isFlying": false, // Có bay không?
+    "isStealth": false, // Có tàng hình không?
+    "stealthRevealRange": 3.0, // Tầm bị phát hiện khi chạy tới gần
+    "hasHealAura": false, // Có hồi máu xung quanh?
+    "healAuraRadius": 0.0, // Bán kính buff máu
+    "healAuraRate": 0.0, // Mức buff máu
+    "isRanged": false, // Đánh xa?
+    "attackRange": 0.0, // Tầm đánh
+    "isBoss": false, // Là Boss?
+    "phases": null,
+    "defaultGroupSize": 2, // Số lượng mặc định 1 cụm sinh ra
+    "spawnInterval": 0.8 // Khoảng cách sinh ra giữa mỗi con trong cụm
   }
 }
