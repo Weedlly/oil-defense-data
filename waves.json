@@ -1,61 +1,83 @@
 {
-  "wave_Level01": {
+  "Wave_Level01": {
     "waves": [
       {
-        "waveNumber": 1,
-        "delayBeforeWave": 2.0,
+        "waveNumber": 1, // Thứ tự đợt
+        "delayBeforeWave": 2.0, // Thời gian chờ trước đợt
         "spawnGroups": [
           {
-            "enemyName": "Dinghy",
-            "count": 5,
-            "spawnInterval": 1.2,
-            "delayAfterPrevGroup": 0.0,
-            "groundPathIndex": 0,
-            "airPathIndex": 0
+            "enemyName": "Dinghy", // Tên quái (phải chuẩn xác với danh sách enemies)
+            "count": 5, // Chỉ số lượng sinh ra
+            "spawnInterval": 1.2, // Khoảng cách sinh ra giữa mỗi con trong cụm
+            "delayAfterPrevGroup": 0.0, // Thời gian chờ sau nhóm trước
+            "groundPathIndex": 0, // Đi đường bộ nào (0, 1...)
+            "airPathIndex": 0 // Bay đường bay nào (0, 1...)
           }
         ]
       },
       {
-        "waveNumber": 2,
-        "delayBeforeWave": 1.0,
+        "waveNumber": 2, // Thứ tự đợt
+        "delayBeforeWave": 1.0, // Thời gian chờ trước đợt
         "spawnGroups": [
           {
-            "enemyName": "Dinghy",
-            "count": 3,
-            "spawnInterval": 1.0,
-            "delayAfterPrevGroup": 0.0,
-            "groundPathIndex": 0,
-            "airPathIndex": 0
+            "enemyName": "Dinghy", // Tên quái (phải chuẩn xác với danh sách enemies)
+            "count": 3, // Chỉ số lượng sinh ra
+            "spawnInterval": 1.0, // Khoảng cách sinh ra giữa mỗi con trong cụm
+            "delayAfterPrevGroup": 0.0, // Thời gian chờ sau nhóm trước
+            "groundPathIndex": 0, // Đi đường bộ nào (0, 1...)
+            "airPathIndex": 0 // Bay đường bay nào (0, 1...)
           },
           {
-            "enemyName": "Speedboat",
-            "count": 3,
-            "spawnInterval": 0.8,
-            "delayAfterPrevGroup": 2.0,
-            "groundPathIndex": 0,
-            "airPathIndex": 0
+            "enemyName": "Speedboat", // Tên quái (phải chuẩn xác với danh sách enemies)
+            "count": 3, // Chỉ số lượng sinh ra
+            "spawnInterval": 1.2, // Khoảng cách sinh ra giữa mỗi con trong cụm
+            "delayAfterPrevGroup": 2.0, // Thời gian chờ sau nhóm trước
+            "groundPathIndex": 1, // Đi đường bộ nào (0, 1...)
+            "airPathIndex": 0 // Bay đường bay nào (0, 1...)
           }
         ]
       },
       {
-        "waveNumber": 3,
-        "delayBeforeWave": 1.0,
+        "waveNumber": 3, // Thứ tự đợt
+        "delayBeforeWave": 1.0, // Thời gian chờ trước đợt
         "spawnGroups": [
           {
-            "enemyName": "Speedboat",
-            "count": 4,
-            "spawnInterval": 0.8,
-            "delayAfterPrevGroup": 0.0,
-            "groundPathIndex": 0,
-            "airPathIndex": 0
+            "enemyName": "DroneSwarm", // Tên quái (phải chuẩn xác với danh sách enemies)
+            "count": 10, // Chỉ số lượng sinh ra
+            "spawnInterval": 0.5, // Khoảng cách sinh ra giữa mỗi con trong cụm
+            "delayAfterPrevGroup": 0.0, // Thời gian chờ sau nhóm trước
+            "groundPathIndex": 0, // Đi đường bộ nào (0, 1...)
+            "airPathIndex": 0 // Bay đường bay nào (0, 1...)
+          }
+        ]
+      },
+      {
+        "waveNumber": 4, // Thứ tự đợt
+        "delayBeforeWave": 3.0, // Thời gian chờ trước đợt
+        "spawnGroups": [
+          {
+            "enemyName": "Speedboat", // Tên quái (phải chuẩn xác với danh sách enemies)
+            "count": 4, // Chỉ số lượng sinh ra
+            "spawnInterval": 0.8, // Khoảng cách sinh ra giữa mỗi con trong cụm
+            "delayAfterPrevGroup": 0.0, // Thời gian chờ sau nhóm trước
+            "groundPathIndex": 0, // Đi đường bộ nào (0, 1...)
+            "airPathIndex": 0 // Bay đường bay nào (0, 1...)
           },
           {
-            "enemyName": "Pirate Boat",
-            "count": 2,
-            "spawnInterval": 1.5,
-            "delayAfterPrevGroup": 3.0,
-            "groundPathIndex": 0,
-            "airPathIndex": 0
+            "enemyName": "Dinghy", // Tên quái (phải chuẩn xác với danh sách enemies)
+            "count": 3, // Chỉ số lượng sinh ra
+            "spawnInterval": 1.0, // Khoảng cách sinh ra giữa mỗi con trong cụm
+            "delayAfterPrevGroup": 0.0, // Thời gian chờ sau nhóm trước
+            "groundPathIndex": 1, // Đi đường bộ nào (0, 1...)
+            "airPathIndex": 0 // Bay đường bay nào (0, 1...)
+          },
+          {
+            "enemyName": "DroneSwarm", // Tên quái (phải chuẩn xác với danh sách enemies)
+            "count": 12, // Chỉ số lượng sinh ra
+            "spawnInterval": 0.4, // Khoảng cách sinh ra giữa mỗi con trong cụm
+            "delayAfterPrevGroup": 2.0, // Thời gian chờ sau nhóm trước
+            "groundPathIndex": 0, // Đi đường bộ nào (0, 1...)
+            "airPathIndex": 0 // Bay đường bay nào (0, 1...)
           }
         ]
       }
