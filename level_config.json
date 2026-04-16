@@ -1,14 +1,14 @@
 {
   "LevelConfig_01": {
-    "startingOil": 200,
-    "maxOilStorage": 9999,
-    "passiveOilRate": 1.5,
-    "tapOilValue": 8,
-    "critChance": 0.05,
-    "critMultiplier": 2.0,
+    "startingOil": 300, // Mức dầu ban đầu khi vào game
+    "maxOilStorage": 9999, // Kho dầu sức chứa
+    "passiveOilRate": 1.5, // Dầu tự hồi mỗi giây
+    "tapOilValue": 8, // Lượng dầu từ mỗi lần click
+    "critChance": 0.05, // Tỉ lệ chí mạng (0.0 -> 1.0)
+    "critMultiplier": 2.0, // Sát thương nhân lên khi chí mạng
     "maxLives": 5,
-    "waveCountdown": 7.0,
-    "earlyCallMaxBonus": 20,
-    "showCallWaveOnStart": true
+    "waveCountdown": 7.0, // Thời gian chờ gọi wave đếm ngược
+    "earlyCallMaxBonus": 20, // Tiền thưởng Wave sớm đa
+    "showCallWaveOnStart": true // Bắt đầu vào là hiện bảng gọi wave
   }
 }
