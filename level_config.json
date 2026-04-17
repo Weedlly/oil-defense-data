@@ -3,7 +3,7 @@
     "startingOil": 300, // Mức dầu ban đầu khi vào game
     "maxOilStorage": 9999, // Kho dầu sức chứa
     "passiveOilRate": 1.5, // Dầu tự hồi mỗi giây
-    "tapOilValue": 8, // Lượng dầu từ mỗi lần click
+    "tapOilValue": 12, // Lượng dầu từ mỗi lần click
     "critChance": 0.05, // Tỉ lệ chí mạng (0.0 -> 1.0)
     "critMultiplier": 2.0, // Sát thương nhân lên khi chí mạng
     "maxLives": 5,
