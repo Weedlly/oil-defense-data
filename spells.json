@@ -1,7 +1,7 @@
 {
   "Airstrike": {
     "type": "Airstrike", // Loài / Kiểu kỹ năng
-    "cooldown": 25.0, // Hồi chiêu (giây)
+    "cooldown": 15.0, // Hồi chiêu (giây)
     "radius": 2.5, // Phạm vi
     "damage": 200.0, // Sát thương
     "jetSpeed": 20.0, // Tốc độ máy bay
