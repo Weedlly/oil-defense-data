@@ -40,7 +40,7 @@
     "spawnInterval": 1.0 // Khoảng cách sinh ra giữa mỗi con trong cụm
   },
   "Speedboat": {
-    "hp": 100.0, // Máu cơ bản (Tăng thêm chút để lính tank thật sự lì đòn)
+    "hp": 150.0, // Máu cơ bản (Trâu cực mạnh để bù lại số lượng trụ rải rác)
     "speed": 1.5, // Tốc độ di chuyển
     "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
     "magicResist": 0.0, // Kháng phép
