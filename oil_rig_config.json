@@ -1,7 +1,7 @@
 {
   "OilRigConfig_Default": {
     "pumpDuration": 5.0, // Chu kỳ bơm dẫu (giây)
-    "oilPerPump": 10, // Sản lượng 1 chu kỳ
+    "oilPerPump": 20, // Sản lượng 1 chu kỳ (Tăng thu nhập thụ động)
     "tapProgressBonus": 0.05, // Tiến độ nhận thêm khi đập click (%)
     "tapSpeedMultiplier": 1.5, // Tốc độ tăng tiến sau khi click buff
     "tapCooldown": 0.4, // Thời gian giữa các lượt buff

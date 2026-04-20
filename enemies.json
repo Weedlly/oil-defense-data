@@ -21,7 +21,7 @@
   },
   "DroneSwarm": {
     "hp": 15.0, // Máu cơ bản
-    "speed": 3.0, // Tốc độ di chuyển
+    "speed": 2.0, // Tốc độ di chuyển (Giảm để người chơi dễ phản ứng)
     "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
     "magicResist": 0.0, // Kháng phép
     "oilDrop": 5, // Lượng dầu rớt ra khi chết
@@ -40,7 +40,7 @@
     "spawnInterval": 1.0 // Khoảng cách sinh ra giữa mỗi con trong cụm
   },
   "Speedboat": {
-    "hp": 80.0, // Máu cơ bản
+    "hp": 65.0, // Máu cơ bản (Giảm tránh quá trâu ở wave cuối level 1)
     "speed": 1.5, // Tốc độ di chuyển
     "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
     "magicResist": 0.0, // Kháng phép

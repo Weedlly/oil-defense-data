@@ -1,9 +1,9 @@
 {
   "LevelConfig_01": {
-    "startingOil": 300, // Mức dầu ban đầu khi vào game
+    "startingOil": 120, // Mức dầu ban đầu khi vào game (Đã giảm để cân bằng đầu game)
     "maxOilStorage": 9999, // Kho dầu sức chứa
-    "passiveOilRate": 1.5, // Dầu tự hồi mỗi giây
-    "tapOilValue": 12, // Lượng dầu từ mỗi lần click
+    "passiveOilRate": 2.5, // Dầu tự hồi mỗi giây (Tăng để thu nhập thụ động nhàn hơn)
+    "tapOilValue": 3, // Lượng dầu từ mỗi lần click (Giảm chống spam nhấp chuột)
     "critChance": 0.05, // Tỉ lệ chí mạng (0.0 -> 1.0)
     "critMultiplier": 2.0, // Sát thương nhân lên khi chí mạng
     "maxLives": 5,
