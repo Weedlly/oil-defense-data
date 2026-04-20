@@ -20,7 +20,7 @@
     "spawnInterval": 0.6 // Khoảng cách sinh ra giữa mỗi con trong cụm
   },
   "DroneSwarm": {
-    "hp": 20.0, // Máu cơ bản (Giảm cho mỏng bớt)
+    "hp": 29.0, // Máu cơ bản (Giảm cho mỏng bớt)
     "speed": 2.0, // Tốc độ di chuyển (Giảm để người chơi dễ phản ứng)
     "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
     "magicResist": 0.0, // Kháng phép

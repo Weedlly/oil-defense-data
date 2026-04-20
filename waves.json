@@ -57,7 +57,7 @@
         "spawnGroups": [
           {
             "enemyName": "Speedboat", // Tên quái (phải chuẩn xác với danh sách enemies)
-            "count": 4, // Chỉ số lượng sinh ra
+            "count": 5, // Chỉ số lượng sinh ra
             "spawnInterval": 0.8, // Khoảng cách sinh ra giữa mỗi con trong cụm
             "delayAfterPrevGroup": 0.0, // Thời gian chờ sau nhóm trước
             "groundPathIndex": 0, // Đi đường bộ nào (0, 1...)
@@ -65,7 +65,7 @@
           },
           {
             "enemyName": "Dinghy", // Tên quái (phải chuẩn xác với danh sách enemies)
-            "count": 3, // Chỉ số lượng sinh ra
+            "count": 5, // Chỉ số lượng sinh ra
             "spawnInterval": 1.0, // Khoảng cách sinh ra giữa mỗi con trong cụm
             "delayAfterPrevGroup": 0.0, // Thời gian chờ sau nhóm trước
             "groundPathIndex": 1, // Đi đường bộ nào (0, 1...)
@@ -73,7 +73,7 @@
           },
           {
             "enemyName": "DroneSwarm", // Tên quái (phải chuẩn xác với danh sách enemies)
-            "count": 12, // Chỉ số lượng sinh ra
+            "count": 15, // Chỉ số lượng sinh ra
             "spawnInterval": 0.8, // Khoảng cách sinh ra giữa mỗi con trong cụm
             "delayAfterPrevGroup": 2.0, // Thời gian chờ sau nhóm trước
             "groundPathIndex": 0, // Đi đường bộ nào (0, 1...)
