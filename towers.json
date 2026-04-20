@@ -126,8 +126,8 @@
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
       },
       {
-        "minDamage": 12.0, // Sát thương thấp nhất
-        "maxDamage": 18.0, // Sát thương cao nhất
+        "minDamage": 10.0, // Sát thương thấp nhất
+        "maxDamage": 15.0, // Sát thương cao nhất
         "fireRate": 0.7, // Thời gian giữa mỗi lần bắn (giây)
         "range": 4.0, // Tầm bắn
         "cost": 60, // Giá mua/nâng cấp
@@ -136,8 +136,8 @@
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
       },
       {
-        "minDamage": 18.0, // Sát thương thấp nhất
-        "maxDamage": 28.0, // Sát thương cao nhất
+        "minDamage": 15.0, // Sát thương thấp nhất
+        "maxDamage": 24.0, // Sát thương cao nhất
         "fireRate": 0.5, // Thời gian giữa mỗi lần bắn (giây)
         "range": 4.5, // Tầm bắn
         "cost": 90, // Giá mua/nâng cấp
