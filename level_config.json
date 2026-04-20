@@ -1,9 +1,9 @@
 {
   "LevelConfig_01": {
-    "startingOil": 150, // Mức dầu ban đầu khi vào game (Vừa đủ để show nâng cấp trụ)
+    "startingOil": 250, // Mức dầu ban đầu khi vào game (Bom sẵn đủ xây max trụ do bỏ tính năng click)
     "maxOilStorage": 9999, // Kho dầu sức chứa
-    "passiveOilRate": 2.5, // Dầu tự hồi mỗi giây (Tăng để thu nhập thụ động nhàn hơn)
-    "tapOilValue": 8, // Lượng dầu từ mỗi lần click (Tăng lại chút để show Booster click lúc demo)
+    "passiveOilRate": 4.0, // Dầu tự hồi mỗi giây (Tăng mạnh để bù đắp việc bỏ click)
+    "tapOilValue": 0, // Tính năng cày click đã bị loại bỏ khỏi game loop
     "critChance": 0.05, // Tỉ lệ chí mạng (0.0 -> 1.0)
     "critMultiplier": 2.0, // Sát thương nhân lên khi chí mạng
     "maxLives": 5,
