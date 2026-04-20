@@ -1,6 +1,6 @@
 {
   "Dinghy": {
-    "hp": 50.0, // Máu cơ bản (Tăng chút cho lính không chết nghẹt ở cửa)
+    "hp": 120.0, // Máu cơ bản (Tăng chút cho lính không chết nghẹt ở cửa)
     "speed": 1.0, // Tốc độ di chuyển
     "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
     "magicResist": 0.0, // Kháng phép
