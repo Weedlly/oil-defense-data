@@ -1,6 +1,6 @@
 {
   "LevelConfig_01": {
-    "startingOil": 200, // Mức dầu ban đầu khi vào game (Vừa đủ phủ 6-7 Gun Turret sớm)
+    "startingOil": 150, // Mức dầu ban đầu khi vào game (Vừa đủ phủ 6-7 Gun Turret sớm)
     "maxOilStorage": 9999, // Kho dầu sức chứa
     "passiveOilRate": 4.0, // Dầu tự hồi mỗi giây (Tăng mạnh để bù đắp việc bỏ click)
     "tapOilValue": 0, // Tính năng cày click đã bị loại bỏ khỏi game loop
