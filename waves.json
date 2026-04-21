@@ -21,15 +21,15 @@
         "spawnGroups": [
           {
             "enemyName": "Dinghy", // Tên quái (phải chuẩn xác với danh sách enemies)
-            "count": 7, // Chỉ số lượng sinh ra
-            "spawnInterval": 0.6, // Khoảng cách sinh ra giữa mỗi con trong cụm
+            "count": 6, // Chỉ số lượng sinh ra
+            "spawnInterval": 0.8, // Khoảng cách sinh ra giữa mỗi con trong cụm
             "delayAfterPrevGroup": 0.0, // Thời gian chờ sau nhóm trước
             "groundPathIndex": 0, // Đi đường bộ nào (0, 1...)
             "airPathIndex": 0 // Bay đường bay nào (0, 1...)
           },
           {
             "enemyName": "Speedboat", // Tên quái (phải chuẩn xác với danh sách enemies)
-            "count": 6, // Chỉ số lượng sinh ra
+            "count": 4, // Chỉ số lượng sinh ra
             "spawnInterval": 0.8, // Khoảng cách sinh ra giữa mỗi con trong cụm
             "delayAfterPrevGroup": 2.0, // Thời gian chờ sau nhóm trước
             "groundPathIndex": 1, // Đi đường bộ nào (0, 1...)
