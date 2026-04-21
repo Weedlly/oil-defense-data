@@ -14,21 +14,21 @@
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
       },
       {
-        "minDamage": 12.0, // Sát thương thấp nhất
-        "maxDamage": 18.0, // Sát thương cao nhất
+        "minDamage": 11.0, // Sát thương thấp nhất
+        "maxDamage": 16.0, // Sát thương cao nhất
         "fireRate": 0.7, // Thời gian giữa mỗi lần bắn (giây)
         "range": 4.5, // Tầm bắn
-        "cost": 45, // Giá mua/nâng cấp
+        "cost": 50, // Giá mua/nâng cấp
         "splashRadius": 0.0, // Bán kính gây sát thương nổ (nếu có)
         "critChance": 0.05, // Tỉ lệ chí mạng (0.0 -> 1.0)
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
       },
       {
-        "minDamage": 18.0, // Sát thương thấp nhất
-        "maxDamage": 26.0, // Sát thương cao nhất
+        "minDamage": 16.0, // Sát thương thấp nhất
+        "maxDamage": 24.0, // Sát thương cao nhất
         "fireRate": 0.6, // Thời gian giữa mỗi lần bắn (giây)
         "range": 5.0, // Tầm bắn
-        "cost": 65, // Giá mua/nâng cấp
+        "cost": 75, // Giá mua/nâng cấp
         "splashRadius": 0.0, // Bán kính gây sát thương nổ (nếu có)
         "critChance": 0.08, // Tỉ lệ chí mạng (0.0 -> 1.0)
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
@@ -70,21 +70,21 @@
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
       },
       {
-        "minDamage": 35.0, // Sát thương thấp nhất
-        "maxDamage": 50.0, // Sát thương cao nhất
+        "minDamage": 32.0, // Sát thương thấp nhất
+        "maxDamage": 45.0, // Sát thương cao nhất
         "fireRate": 1.8, // Thời gian giữa mỗi lần bắn (giây)
         "range": 5.5, // Tầm bắn
-        "cost": 150, // Giá mua/nâng cấp
+        "cost": 160, // Giá mua/nâng cấp
         "splashRadius": 1.5, // Bán kính gây sát thương nổ (nếu có)
         "critChance": 0.0, // Tỉ lệ chí mạng (0.0 -> 1.0)
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
       },
       {
-        "minDamage": 50.0, // Sát thương thấp nhất
-        "maxDamage": 75.0, // Sát thương cao nhất
+        "minDamage": 45.0, // Sát thương thấp nhất
+        "maxDamage": 70.0, // Sát thương cao nhất
         "fireRate": 1.5, // Thời gian giữa mỗi lần bắn (giây)
         "range": 6.0, // Tầm bắn
-        "cost": 200, // Giá mua/nâng cấp
+        "cost": 220, // Giá mua/nâng cấp
         "splashRadius": 2.0, // Bán kính gây sát thương nổ (nếu có)
         "critChance": 0.0, // Tỉ lệ chí mạng (0.0 -> 1.0)
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
@@ -126,21 +126,21 @@
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
       },
       {
-        "minDamage": 10.0, // Sát thương thấp nhất
-        "maxDamage": 15.0, // Sát thương cao nhất
+        "minDamage": 9.0, // Sát thương thấp nhất
+        "maxDamage": 13.0, // Sát thương cao nhất
         "fireRate": 0.7, // Thời gian giữa mỗi lần bắn (giây)
         "range": 4.0, // Tầm bắn
-        "cost": 60, // Giá mua/nâng cấp
+        "cost": 70, // Giá mua/nâng cấp
         "splashRadius": 0.0, // Bán kính gây sát thương nổ (nếu có)
         "critChance": 0.0, // Tỉ lệ chí mạng (0.0 -> 1.0)
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
       },
       {
-        "minDamage": 14.0, // Sát thương thấp nhất
-        "maxDamage": 18.0, // Sát thương cao nhất
+        "minDamage": 12.0, // Sát thương thấp nhất
+        "maxDamage": 16.0, // Sát thương cao nhất
         "fireRate": 0.5, // Thời gian giữa mỗi lần bắn (giây)
         "range": 4.5, // Tầm bắn
-        "cost": 90, // Giá mua/nâng cấp
+        "cost": 100, // Giá mua/nâng cấp
         "splashRadius": 0.0, // Bán kính gây sát thương nổ (nếu có)
         "critChance": 0.0, // Tỉ lệ chí mạng (0.0 -> 1.0)
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
