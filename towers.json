@@ -60,8 +60,8 @@
     "canTargetWater": true, // Đánh được dưới nước?
     "levels": [
       {
-        "minDamage": 20.0, // Sát thương thấp nhất
-        "maxDamage": 25.0, // Sát thương cao nhất
+        "minDamage": 15.0, // Sát thương thấp nhất
+        "maxDamage": 18.0, // Sát thương cao nhất
         "fireRate": 4.0, // Thời gian giữa mỗi lần bắn (giây) (Giảm thời gian chờ nạp đạn)
         "range": 5.0, // Tầm bắn
         "cost": 160, // Giá mua/nâng cấp
@@ -70,8 +70,8 @@
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
       },
       {
-        "minDamage": 28.0, // Sát thương thấp nhất
-        "maxDamage": 35.0, // Sát thương cao nhất
+        "minDamage": 19.0, // Sát thương thấp nhất
+        "maxDamage": 22.0, // Sát thương cao nhất
         "fireRate": 1.8, // Thời gian giữa mỗi lần bắn (giây)
         "range": 5.5, // Tầm bắn
         "cost": 225, // Giá mua/nâng cấp
@@ -80,8 +80,8 @@
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
       },
       {
-        "minDamage": 40.0, // Sát thương thấp nhất
-        "maxDamage": 60.0, // Sát thương cao nhất
+        "minDamage": 23.0, // Sát thương thấp nhất
+        "maxDamage": 28.0, // Sát thương cao nhất
         "fireRate": 1.5, // Thời gian giữa mỗi lần bắn (giây)
         "range": 6.0, // Tầm bắn
         "cost": 300, // Giá mua/nâng cấp
