@@ -20,11 +20,11 @@
     "spawnInterval": 0.6 // Khoảng cách sinh ra giữa mỗi con trong cụm
   },
   "DroneSwarm": {
-    "hp": 55.0, // Máu cơ bản (Tăng khỏe hơn chút sống dai hơn)
-    "speed": 2.0, // Tốc độ di chuyển (Giảm để người chơi dễ phản ứng)
+    "hp": 60.0, // Máu cơ bản (Tăng khỏe hơn chút sống dai hơn)
+    "speed": 2.3, // Tốc độ di chuyển (Giảm để người chơi dễ phản ứng)
     "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
     "magicResist": 0.0, // Kháng phép
-    "oilDrop": 5, // Lượng dầu rớt ra khi chết
+    "oilDrop": 3, // Lượng dầu rớt ra khi chết
     "damageToBoats": 0.0, // Sát thương gây cho tàu/giàn khoan
     "isFlying": true, // Có bay không?
     "isStealth": false, // Có tàng hình không?
@@ -40,11 +40,11 @@
     "spawnInterval": 1.0 // Khoảng cách sinh ra giữa mỗi con trong cụm
   },
   "Speedboat": {
-    "hp": 70.0, // Máu cơ bản (Speedboat chạy nhanh nên sắm vai Sát Thủ máu giấy)
+    "hp": 75.0, // Máu cơ bản (Speedboat chạy nhanh nên sắm vai Sát Thủ máu giấy)
     "speed": 1.6, // Tốc độ di chuyển
     "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
     "magicResist": 0.0, // Kháng phép
-    "oilDrop": 6, // Lượng dầu rớt ra khi chết
+    "oilDrop": 4, // Lượng dầu rớt ra khi chết
     "damageToBoats": 0.0, // Sát thương gây cho tàu/giàn khoan
     "isFlying": false, // Có bay không?
     "isStealth": false, // Có tàng hình không?
