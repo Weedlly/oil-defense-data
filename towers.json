@@ -18,7 +18,7 @@
         "maxDamage": 14.0, // Sát thương cao nhất
         "fireRate": 0.7, // Thời gian giữa mỗi lần bắn (giây)
         "range": 4.5, // Tầm bắn
-        "cost": 50, // Giá mua/nâng cấp
+        "cost": 60, // Giá mua/nâng cấp
         "splashRadius": 0.0, // Bán kính gây sát thương nổ (nếu có)
         "critChance": 0.05, // Tỉ lệ chí mạng (0.0 -> 1.0)
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
@@ -117,7 +117,7 @@
     "levels": [
       {
         "minDamage": 8.0, // Sát thương thấp nhất
-        "maxDamage": 11.0, // Sát thương cao nhất
+        "maxDamage": 12.0, // Sát thương cao nhất
         "fireRate": 0.8, // Thời gian giữa mỗi lần bắn (giây)
         "range": 3.5, // Tầm bắn
         "cost": 80, // Giá mua/nâng cấp
