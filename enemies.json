@@ -21,7 +21,7 @@
   },
   "DroneSwarm": {
     "hp": 60.0, // Máu cơ bản (Tăng khỏe hơn chút sống dai hơn)
-    "speed": 2.3, // Tốc độ di chuyển (Giảm để người chơi dễ phản ứng)
+    "speed": 2.5, // Tốc độ di chuyển (Giảm để người chơi dễ phản ứng)
     "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
     "magicResist": 0.0, // Kháng phép
     "oilDrop": 3, // Lượng dầu rớt ra khi chết
