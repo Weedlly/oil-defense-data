@@ -17,7 +17,7 @@
       },
       {
         "waveNumber": 2, // Thứ tự đợt
-        "delayBeforeWave": 5.0, // Thời gian chờ trước đợt (Để người chơi kịp mua trụ)
+        "delayBeforeWave": 3.0, // Thời gian chờ trước đợt (Để người chơi kịp mua trụ)
         "spawnGroups": [
           {
             "enemyName": "Dinghy", // Tên quái (phải chuẩn xác với danh sách enemies)
@@ -39,7 +39,7 @@
       },
       {
         "waveNumber": 3, // Thứ tự đợt
-        "delayBeforeWave": 1.0, // Thời gian chờ trước đợt
+        "delayBeforeWave": 2.0, // Thời gian chờ trước đợt
         "spawnGroups": [
           {
             "enemyName": "DroneSwarm", // Tên quái (phải chuẩn xác với danh sách enemies)
@@ -53,7 +53,7 @@
       },
       {
         "waveNumber": 4, // Thứ tự đợt
-        "delayBeforeWave": 7.0, // Thời gian chờ trước đợt (Dài hơn để chuẩn bị đối phó)
+        "delayBeforeWave": 3.0, // Thời gian chờ trước đợt (Dài hơn để chuẩn bị đối phó)
         "spawnGroups": [
           {
             "enemyName": "Speedboat", // Tên quái (phải chuẩn xác với danh sách enemies)
