@@ -4,8 +4,8 @@
     "canTargetWater": true, // Đánh được dưới nước?
     "levels": [
       {
-        "minDamage": 1.3, // Sát thương thấp nhất (Nâng để diệt quái nhỏ dễ hơn)
-        "maxDamage": 1.8, // Sát thương cao nhất
+        "minDamage": 1.5, // Sát thương thấp nhất (Nâng để diệt quái nhỏ dễ hơn)
+        "maxDamage": 2.0, // Sát thương cao nhất
         "fireRate": 0.1, // Thời gian giữa mỗi lần bắn (giây)
         "range": 4.0, // Tầm bắn
         "cost": 120, // Giá mua/nâng cấp (Lạm phát V3 x6)
