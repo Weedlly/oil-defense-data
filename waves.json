@@ -7,7 +7,7 @@
         "spawnGroups": [
           {
             "enemyName": "Dinghy", // Tên quái (phải chuẩn xác với danh sách enemies)
-            "count": 9, // Chỉ số lượng sinh ra
+            "count": 7, // Chỉ số lượng sinh ra
             "spawnInterval": 1.6, // Khoảng cách sinh ra giữa mỗi con trong cụm
             "delayAfterPrevGroup": 0.0, // Thời gian chờ sau nhóm trước
             "groundPathIndex": 0, // Đi đường bộ nào (0, 1...)
@@ -65,7 +65,7 @@
           },
           {
             "enemyName": "Dinghy", // Tên quái (phải chuẩn xác với danh sách enemies)
-            "count": 18, // Chỉ số lượng sinh ra
+            "count": 20, // Chỉ số lượng sinh ra
             "spawnInterval": 1.6, // Khoảng cách sinh ra giữa mỗi con trong cụm
             "delayAfterPrevGroup": 0.0, // Thời gian chờ sau nhóm trước
             "groundPathIndex": 1, // Đi đường bộ nào (0, 1...)
