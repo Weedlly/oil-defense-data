@@ -4,8 +4,8 @@
     "canTargetWater": true, // Đánh được dưới nước?
     "levels": [
       {
-        "minDamage": 2.0, // Sát thương thấp nhất (Nâng để diệt quái nhỏ dễ hơn)
-        "maxDamage": 3.0, // Sát thương cao nhất
+        "minDamage": 1.7, // Sát thương thấp nhất (Nâng để diệt quái nhỏ dễ hơn)
+        "maxDamage": 2.2, // Sát thương cao nhất
         "fireRate": 0.1, // Thời gian giữa mỗi lần bắn (giây)
         "range": 4.0, // Tầm bắn
         "cost": 120, // Giá mua/nâng cấp (Lạm phát V3 x6)
@@ -14,8 +14,8 @@
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
       },
       {
-        "minDamage": 3.5, // Sát thương thấp nhất
-        "maxDamage": 5.0, // Sát thương cao nhất
+        "minDamage": 2.7, // Sát thương thấp nhất
+        "maxDamage": 3.5, // Sát thương cao nhất
         "fireRate": 0.1, // Thời gian giữa mỗi lần bắn (giây)
         "range": 4.5, // Tầm bắn
         "cost": 350, // Giá mua/nâng cấp (Lạm phát V3 x6)
@@ -74,7 +74,7 @@
         "maxDamage": 22.0, // Sát thương cao nhất
         "fireRate": 2.0, // Thời gian giữa mỗi lần bắn (giây)
         "range": 5.5, // Tầm bắn
-        "cost": 1000, // Giá mua/nâng cấp (Lạm phát V3 x6)
+        "cost": 900, // Giá mua/nâng cấp (Lạm phát V3 x6)
         "splashRadius": 1.5, // Bán kính gây sát thương nổ (nếu có)
         "critChance": 0.0, // Tỉ lệ chí mạng (0.0 -> 1.0)
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
@@ -116,8 +116,8 @@
     "canTargetWater": true, // Đánh được dưới nước?
     "levels": [
       {
-        "minDamage": 8.0, // Sát thương thấp nhất
-        "maxDamage": 12.0, // Sát thương cao nhất
+        "minDamage": 7.0, // Sát thương thấp nhất
+        "maxDamage": 10.0, // Sát thương cao nhất
         "fireRate": 0.8, // Thời gian giữa mỗi lần bắn (giây)
         "range": 3.5, // Tầm bắn
         "cost": 260, // Giá mua/nâng cấp (Lạm phát V3 x6)
@@ -126,11 +126,11 @@
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
       },
       {
-        "minDamage": 9.0, // Sát thương thấp nhất
-        "maxDamage": 12.0, // Sát thương cao nhất
+        "minDamage": 10.0, // Sát thương thấp nhất
+        "maxDamage": 13.0, // Sát thương cao nhất
         "fireRate": 0.7, // Thời gian giữa mỗi lần bắn (giây)
         "range": 4.0, // Tầm bắn
-        "cost": 550, // Giá mua/nâng cấp (Lạm phát V3 x6)
+        "cost": 450, // Giá mua/nâng cấp (Lạm phát V3 x6)
         "splashRadius": 0.0, // Bán kính gây sát thương nổ (nếu có)
         "critChance": 0.0, // Tỉ lệ chí mạng (0.0 -> 1.0)
         "critMultiplier": 2.0 // Sát thương nhân lên khi chí mạng
