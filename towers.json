@@ -6,7 +6,7 @@
       {
         "minDamage": 4.0, // Sát thương thấp nhất (Nâng để diệt quái nhỏ dễ hơn)
         "maxDamage": 6.0, // Sát thương cao nhất
-        "fireRate": 1.6, // Thời gian giữa mỗi lần bắn (giây)
+        "fireRate": 0.4, // Thời gian giữa mỗi lần bắn (giây)
         "range": 4.0, // Tầm bắn
         "cost": 200, // Giá mua/nâng cấp (Lạm phát V3 x6)
         "splashRadius": 0.0, // Bán kính gây sát thương nổ (nếu có)
