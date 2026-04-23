@@ -1,7 +1,7 @@
 {
   "Dinghy": {
     "hp": 100.0, // Máu cơ bản (Dinghy đi chậm nên sắm vai Bịch Bông/Tanker)
-    "speed": 1.3, // Tốc độ di chuyển
+    "speed": 1.4, // Tốc độ di chuyển
     "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
     "magicResist": 0.0, // Kháng phép
     "oilDrop": 12, // Lượng dầu rớt ra khi chết
