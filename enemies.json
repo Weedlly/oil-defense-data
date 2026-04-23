@@ -1,6 +1,6 @@
 {
   "Dinghy": {
-    "hp": 105.0, // Máu cơ bản (Dinghy đi chậm nên sắm vai Bịch Bông/Tanker)
+    "hp": 100.0, // Máu cơ bản (Dinghy đi chậm nên sắm vai Bịch Bông/Tanker)
     "speed": 1.2, // Tốc độ di chuyển
     "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
     "magicResist": 0.0, // Kháng phép
@@ -40,7 +40,7 @@
     "spawnInterval": 1.0 // Khoảng cách sinh ra giữa mỗi con trong cụm
   },
   "Speedboat": {
-    "hp": 75.0, // Máu cơ bản (Speedboat chạy nhanh nên sắm vai Sát Thủ máu giấy)
+    "hp": 70.0, // Máu cơ bản (Speedboat chạy nhanh nên sắm vai Sát Thủ máu giấy)
     "speed": 1.6, // Tốc độ di chuyển
     "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
     "magicResist": 0.0, // Kháng phép
