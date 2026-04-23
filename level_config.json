@@ -1,6 +1,6 @@
 {
   "LevelConfig_01": {
-    "startingOil": 900, // Mức dầu ban đầu khi vào game (Lạm phát x6 cho V3 Heavy Duty)
+    "startingOil": 200, // Mức dầu ban đầu khi vào game (Lạm phát x6 cho V3 Heavy Duty)
     "maxOilStorage": 9999, // Kho dầu sức chứa
     "passiveOilRate": 4.0, // Dầu tự hồi mỗi giây (Tăng mạnh để bù đắp việc bỏ click)
     "tapOilValue": 0, // Tính năng cày click đã bị loại bỏ khỏi game loop
