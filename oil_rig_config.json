@@ -1,7 +1,7 @@
 {
   "OilRigConfig_Default": {
     "pumpDuration": 5.0, // Chu kỳ bơm dẫu (giây)
-    "oilPerPump": 90, // Sản lượng 1 chu kỳ (Tăng thu nhập thụ động x6 cho V3)
+    "oilPerPump": 50, // Sản lượng 1 chu kỳ (Tăng thu nhập thụ động x6 cho V3)
     "tapCooldown": 0.4 // Thời gian giữa các lượt buff
   }
 }

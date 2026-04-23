@@ -4,7 +4,7 @@
     "speed": 1.2, // Tốc độ di chuyển
     "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
     "magicResist": 0.0, // Kháng phép
-    "oilDrop": 12, // Lượng dầu rớt ra khi chết
+    "oilDrop": 5, // Lượng dầu rớt ra khi chết
     "damageToBoats": 0.0, // Sát thương gây cho tàu/giàn khoan
     "isFlying": false, // Có bay không?
     "isStealth": false, // Có tàng hình không?
@@ -24,7 +24,7 @@
     "speed": 2.7, // Tốc độ di chuyển (Giảm để người chơi dễ phản ứng)
     "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
     "magicResist": 0.0, // Kháng phép
-    "oilDrop": 13, // Lượng dầu rớt ra khi chết
+    "oilDrop": 6, // Lượng dầu rớt ra khi chết
     "damageToBoats": 0.0, // Sát thương gây cho tàu/giàn khoan
     "isFlying": true, // Có bay không?
     "isStealth": false, // Có tàng hình không?
@@ -44,7 +44,7 @@
     "speed": 1.6, // Tốc độ di chuyển
     "physicalArmor": 0.0, // Giáp vật lý (giảm sát thương)
     "magicResist": 0.0, // Kháng phép
-    "oilDrop": 14, // Lượng dầu rớt ra khi chết
+    "oilDrop": 7, // Lượng dầu rớt ra khi chết
     "damageToBoats": 0.0, // Sát thương gây cho tàu/giàn khoan
     "isFlying": false, // Có bay không?
     "isStealth": false, // Có tàng hình không?
